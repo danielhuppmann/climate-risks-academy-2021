@@ -49,7 +49,9 @@ A user should be familiar with the following items before starting this assignme
 0. Retrieve the data from the [NGFS Scenario Explorer hosted by IIASA](https://data.ece.iiasa.ac.at/ngfs),
    - By downloading the Excel file from the Downloads section of the web user interface 
      saving the file on your machine, and then importing it into a Jupyter notebook, or
-   - Retrieving the data directly from Python via the pyam.iiasa.Connection class(see this tutorial, connect to the  ngfs  database)
+    - Retrieving the data directly from Python via the **pyam.iiasa.Connection** class. 
+     (see this [tutorial](https://pyam-iamc.readthedocs.io/en/stable/tutorials/iiasa_dbs.html),
+     connect to the `ngfs` database)
 0. Implement a grouping (meta indicator) of Paris-compatible pathways (vs. exceeding 2°C)
 0. Create several plots comparing the development of Paris-compatible pathways
    by several renewable and fossil energy sources
