@@ -53,10 +53,9 @@ A user should be familiar with the following items before starting this assignme
      (see this [tutorial](https://pyam-iamc.readthedocs.io/en/stable/tutorials/iiasa_dbs.html),
      connect to the `ngfs` database)
 0. Implement a grouping (meta indicator) of Paris-compatible pathways (vs. exceeding 2°C)
-0. Create several plots comparing the development of Paris-compatible pathways
-   by several renewable and fossil energy sources
-0. Select several scenarios and compare the energy mix as (stacked?) bar plots
+0. Select several scenarios and compare the energy mix as suitable plots
 0. Create several plots showing the development of different energy sources by region
+0. Compute relative indicators of the trajectories of energy sources between different scenarios
 
 ### Example solution
 
