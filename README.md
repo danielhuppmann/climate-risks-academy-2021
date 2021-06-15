@@ -10,9 +10,9 @@ see the [LICENSE](LICENSE) for details.
 
 ## Overview
 
-This repository contains solutions for the advanced assignment of the Modeling Lab of
+This repository contains solutions for the advanced assignment of the Modelling Lab of
 the **Climate Risks Academy 2021** organized by the European University Institute (EUI)
-School of Banking and Finance in cooperation with Oliver Wyman.
+Florence School of Banking and Finance in cooperation with Oliver Wyman.
 See [here](https://fbf.eui.eu/climate-risks-academy/) for more information.
 
 ## The NGFS Scenario Ensemble (Phase 2)
