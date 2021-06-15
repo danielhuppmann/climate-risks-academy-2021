@@ -24,7 +24,43 @@ of the scenario data.
 See [this presentation](https://www.ngfs.net/sites/default/files/medias/documents/ngfs_climate_scenarios_phase2_june2021.pdf)
 about the release of Phase 2.
 
-The scenario data is available via the [NGFS Scenario Explorer hosted by IIASA](https://data.ece.iiasa.ac.at/ngfs) 
+The scenario data is available via the [NGFS Scenario Explorer hosted by IIASA](https://data.ece.iiasa.ac.at/ngfs)
+
+## Assignment
+
+### Prerequisites
+
+A user should be familiar with the following items before starting this assignment:
+
+- Basic Python syntax: variables, functions, lists, dictionaries, ...
+  - If you’ve never used Python before, [Anaconda](https://anaconda.org)
+    is an easy option to install the basics
+  - See this [Getting started guide](https://www.python.org/about/gettingstarted/)
+  - More resources to learn Python and its syntax
+    - [realpython.com](https://realpython.com/python-first-steps/)
+    - [fbkarsdorp's python course](https://github.com/fbkarsdorp/python-course)
+    - [edx.org](https://www.edx.org/course/programming-for-everybody-getting-started-with-pyt)
+- Jupyer notebooks, see [jupyter.org](https://jupyter.org/) 
+- The [first steps tutorial](https://pyam-iamc.readthedocs.io/en/stable/tutorials/pyam_first_steps.html)
+  of the pyam package
+
+### Tasks
+
+0. Retrieve the data from the [NGFS Scenario Explorer hosted by IIASA](https://data.ece.iiasa.ac.at/ngfs),
+   - By downloading the Excel file from the Downloads section of the web user interface 
+     saving the file on your machine, and then importing it into a Jupyter notebook, or
+   - Retrieving the data directly from Python via the pyam.iiasa.Connection class(see this tutorial, connect to the  ngfs  database)
+0. Implement a grouping (meta indicator) of Paris-compatible pathways (vs. exceeding 2°C)
+0. Create several plots comparing the development of Paris-compatible pathways
+   by several renewable and fossil energy sources
+0. Select several scenarios and compare the energy mix as (stacked?) bar plots
+0. Create several plots showing the development of different energy sources by region
+
+### Example solution
+
+This repository shows one way to implement the tasks.
+Following good practice of scientific programming, the tasks are separated into
+disctint notebooks, available in the [notebooks](notebooks) folder.
 
 ## The pyam package
 
