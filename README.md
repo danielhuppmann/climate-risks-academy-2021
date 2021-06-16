@@ -2,7 +2,7 @@
 
 Copyright 2021 Daniel Huppmann
 
-This repository is licensed under the Apache License, Version 2.0 (the "License");  
+This repository is licensed under the Apache License, Version 2.0 (the "License");
 see the [LICENSE](LICENSE) for details. 
 
 [![license](https://img.shields.io/badge/License-Apache%202.0-black)](https://github.com/danielhuppmann/climate-risks-academy-2021/blob/main/LICENSE)
