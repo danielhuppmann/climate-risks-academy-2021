@@ -28,6 +28,11 @@ The scenario data is available via the [NGFS Scenario Explorer hosted by IIASA](
 
 ## Assignment
 
+### Learning objective
+
+A user should learn how to retrieve scenario data from an IIASA Scenario Explorer instance into a Python computing environment
+and use pyam to create plots for data analysis (including computing indicators derived from timeseries data).
+
 ### Prerequisites
 
 A user should be familiar with the following items before starting this assignment:
