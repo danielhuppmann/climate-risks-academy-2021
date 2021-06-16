@@ -6,7 +6,7 @@ This repository is licensed under the Apache License, Version 2.0 (the "License"
 see the [LICENSE](LICENSE) for details. 
 
 [![license](https://img.shields.io/badge/License-Apache%202.0-black)](https://github.com/danielhuppmann/climate-risks-academy-2021/blob/main/LICENSE)
-[![python](https://img.shields.io/badge/python-3.7_|_3.8_|_3.9-blue?logo=python&logoColor=white)](https://github.com/IAMconsortium/pyam)
+![python](https://img.shields.io/badge/python-3.7_|_3.8_|_3.9-blue?logo=python&logoColor=white)
 
 ## Overview
 
